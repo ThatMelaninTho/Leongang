@@ -1,0 +1,48 @@
+Body{
+    background-color: rgb(135,206,235);
+    border-style: solid;
+    border-color: #48cd31;
+    border-width: thick;
+    text-align: center;
+    padding-right: 50px;    
+    margin: 3%;
+}
+section>h1{
+    color: white;
+    font-family: 'Noto Serif', serif;
+    font-style: italic;
+    font-size:xx-large
+}
+span{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: Bold 700;
+}
+section>span{
+    color:white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: Bold 900;
+    text-align:left;
+    padding :50px;
+    font-size: 24px;
+    float: left;
+}
+P{
+    color:#e0eaed;
+    font-size: 20px;
+    padding :50px;
+    text-align: left;
+    font-weight: ;
+}
+.logo{
+    width: 30%;
+    height: 35%;
+    float:right;
+    shape-outside: url(logo.png);
+    margin-left: 25px;
+    margin-left:25px;
+    shape-margin: 25px;
+    padding-bottom: 50px;
+}
+
+
